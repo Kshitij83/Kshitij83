@@ -82,3 +82,15 @@ I'm a pre-final-year Computer Science & Engineering student at VIT Vellore, pass
 ---
 
 <p>Always eager to collaborate and learn new technologies. Let's connect and build something amazing together! 🚀</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Kshitij's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kshitij83&show_icons=true&theme=tokyonight)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij83&layout=compact&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kshitij83&theme=tokyonight)
