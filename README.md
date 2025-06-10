@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I’m Kshitij Choudhary 👋</h1>
 
 <p>
-I'm a pre-final-year Computer Science & Engineering student at VIT Vellore, passionate about problem-solving, full-stack development, and data structures & algorithms. I enjoy building scalable and impactful projects, constantly enhancing my skills through hands-on experience.
+I'm a pre-final-year Computer Science & Engineering student, passionate about problem-solving, full-stack development, and data structures & algorithms. I enjoy building scalable and impactful projects, constantly enhancing my skills through hands-on experience.
 </p>
 
 ---
